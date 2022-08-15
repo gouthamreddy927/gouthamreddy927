@@ -7,7 +7,7 @@ currently working for Tagnos (Health care Startup)
 quick learn for latest technologies.
 
 📫 How to reach me: https://www.linkedin.com/in/goutham-reddy-konda-86908a122/ https://twitter.com/gouthamreddy927 
-<!--
+
 **gouthamreddy927/gouthamreddy927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
