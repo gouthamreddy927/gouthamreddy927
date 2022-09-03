@@ -1,23 +1,14 @@
-### Hello there 🖐
-This is Gowtham Reddy!
-UI Developer 🧑🏻‍💻 💻
-Having 4 Years of work experience in building web applications with modern JavaScript concepts & libraries.(React)
-constant Implementation in Dynamic Programming and Reasuable Code 
-currently working for Tagnos (Health care Startup)
-quick learn for latest technologies.
+## Hello there 🖐
+I'm a UI Developer 🧑🏻‍💻 💻
+About me :
+👉 Having 4 Years of work experience in building web applications with modern JavaScript concepts & libraries.(React)
+👉 Working under constant Implementation in Dynamic Programming and Reusable Code 
+👉currently working for Tagnos (Health care Startup)
+👉 I'm a Quick Learner to Latest Technologies.
 
-📫 How to reach me: https://www.linkedin.com/in/goutham-reddy-konda-86908a122/ https://twitter.com/gouthamreddy927 
+- 🔭 I’m currently working on => React (Modern Javascript Frameworks)
+- 🌱 I’m currently learning => Node.js
+- 👯 I’m looking to collaborate on => React.js HTML5,CSS3
+- 📫 How to reach me 😄: => https://www.linkedin.com/in/goutham-reddy-konda-86908a122/ https://twitter.com/gouthamreddy927 
 
-**gouthamreddy927/gouthamreddy927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
